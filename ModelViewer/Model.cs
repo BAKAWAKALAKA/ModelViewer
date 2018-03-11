@@ -76,7 +76,7 @@ namespace ModelViewer
 
             _viewVertex = new List<float>();
             _viewVertexIndex = new List<ushort>();
-            { }
+            { } //ап
             SetQuality(1,0);
         }
 
